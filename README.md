@@ -1,0 +1,1 @@
+# bitrix.request.handler.class
